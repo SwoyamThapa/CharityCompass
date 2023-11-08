@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>CharityCompass</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ url_for('static',filename = 'css/main.css') }}" />
+		<noscript><link rel="stylesheet" href="{{ url_for('static',filename = 'css/noscript.css') }}"/></noscript>
+
+
+	</head>
+	<body class="is-preload">
+			<div id="wrapper">
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						<h1>CharityCompass</h1>
+					</header>
+
+
+					<nav id="nav">
+						<ul>
+							<li><a href="/" class="active">Introduction</a></li>
+							<li><a href="/organizations">Our Organizations</a></li>
+							<li><a href="/compiled_data">General Overview</a></li>
+							<!-- <li><a href="#cta">Get Started</a></li> -->
+						</ul>
+					</nav>
+
+
+                    <div id="main">
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>Organizations</h2>
+										</header>
+										<ul>
+											{% for organization in organizations %}
+											<li>
+												<h2>{{ organization.get('name') }}</h2>
+												<p>Address: {{ organization.get('address1') }}, {{ organization.get('address2') }}, {{ organization.get('city') }}, {{ organization.get('state') }}, {{ organization.get('postal') }}, {{ organization.get('country') }}</p>
+												<p>URL: <a href="{{ organization.get('url') }}" target="_blank">{{ organization.get('url') }}</a></p>
+												<p>Mission: {{ organization.get('mission') }}</p>
+												<p>Themes: {{ organization.get('themes') | join(', ') }}</p>
+												<p>Countries of Operation: {{ organization.get('countries') | join(', ') }}</p>
+												<p>Total Projects: {{ organization.get('totalProjects') }}</p>
+												<p>Active Projects: {{ organization.get('activeProjects') }}</p>
+											</li>
+											{% endfor %}
+										</ul>
+									</div>
+								</div>
+							</section>
+
+
+                    </div>
+            </div>
+
+            <script src="{{ url_for('static',filename = 'js/jquery.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/jquery.scrollex.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/jquery.scrolly.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/browser.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/breakpoints.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/util.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/main.js') }}"></script>	
+	</body>
+</html>

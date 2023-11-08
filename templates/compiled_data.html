@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>CharityCompass</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ url_for('static',filename = 'css/main.css') }}" />
+		<noscript><link rel="stylesheet" href="{{ url_for('static',filename = 'css/noscript.css') }}"/></noscript>
+		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+	</head>
+	<body class="is-preload">
+			<div id="wrapper">
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						<h1>CharityCompass</h1>
+					</header>
+
+
+					<nav id="nav">
+						<ul>
+							<li><a href="/" class="active">Introduction</a></li>
+							<li><a href="/organizations">Our Organizations</a></li>
+							<li><a href="/compiled_data">General Overview</a></li>
+							<!-- <li><a href="#cta">Get Started</a></li> -->
+						</ul>
+					</nav>
+
+
+                    <div id="main">
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>General Overview</h2>
+										</header>
+										<p>The data presented facilitates a comparative analysis of various charity organizations. 
+											It includes a geographical map, which highlights the countries of operation for each organization, allowing for a visual assessment of their global presence. 
+											Additionally, two bar graphs provide insights into their performance: one graph compares the project funding goals and funding received, revealing disparities 
+											in financial support, while the other graph contrasts the total number of projects undertaken with the count of current active projects, enabling a comparison of their project 
+											management and ongoing initiatives. This comprehensive dataset empowers stakeholders to make informed comparisons among these charitable entities, assessing their
+											reach, financial efficiency, and project engagement in a meaningful way. </p>
+									</div>
+
+
+								</div>
+							</section>
+                    </div>
+
+					<div class="figure-container">
+						{% for figure_json in figure_json_list %}
+						<div id="plotly-figure-{{ loop.index }}"></div>
+						<script>
+							var figureData = {{ figure_json | safe }};
+							var figure = Plotly.react('plotly-figure-{{ loop.index }}', figureData);
+						</script>
+						{% endfor %}	
+					</div>
+            </div>
+
+            <script src="{{ url_for('static',filename = 'js/jquery.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/jquery.scrollex.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/jquery.scrolly.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/browser.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/breakpoints.min.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/util.js') }}"></script>
+			<script src="{{ url_for('static',filename = 'js/main.js') }}"></script>	
+	</body>
+</html>

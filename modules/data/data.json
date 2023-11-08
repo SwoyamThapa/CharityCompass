@@ -1,0 +1,2057 @@
+[
+    {
+        "id": 354,
+        "organization": {
+            "id": 372,
+            "name": "Afghan Institute of Learning",
+            "addressLine1": "Afghan Institute of Learning",
+            "addressLine2": "c/o CHI, PO Box 1058",
+            "city": "Dearborn",
+            "state": "Michigan",
+            "postal": "48121",
+            "iso3166CountryCode": "US",
+            "url": "http://www.afghaninstituteoflearning.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/372/orglogo.jpg",
+            "mission": "The Afghan Institute of Learning (AIL) works to empower all Afghans who are needy, especially women and children, providing them the knowledge and skills to care for themselves. AIL is expanding access to quality education and healthcare through community based programming, enabling communities to develop the capacity of their people. The goal is to create a foundation of quality education and health systems throughout Afghanistan which meet the needs of local people now and in the future. AIL was founded by an Afghan woman and is run mainly by women, reaching thousands each year through health facilities, educational centers and training programs.",
+            "totalProjects": 183,
+            "activeProjects": 20,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "children",
+                        "name": "Child Protection"
+                    },
+                    {
+                        "id": "climate",
+                        "name": "Climate Action"
+                    },
+                    {
+                        "id": "democ",
+                        "name": "Peace and Reconciliation"
+                    },
+                    {
+                        "id": "disaster",
+                        "name": "Disaster Response"
+                    },
+                    {
+                        "id": "ecdev",
+                        "name": "Economic Growth"
+                    },
+                    {
+                        "id": "edu",
+                        "name": "Education"
+                    },
+                    {
+                        "id": "env",
+                        "name": "Ecosystem Restoration"
+                    },
+                    {
+                        "id": "gender",
+                        "name": "Gender Equality"
+                    },
+                    {
+                        "id": "health",
+                        "name": "Physical Health"
+                    },
+                    {
+                        "id": "human",
+                        "name": "Ending Human Trafficking"
+                    },
+                    {
+                        "id": "rights",
+                        "name": "Justice and Human Rights"
+                    },
+                    {
+                        "id": "tech",
+                        "name": "Digital Literacy"
+                    },
+                    {
+                        "id": "hunger",
+                        "name": "Food Security"
+                    },
+                    {
+                        "id": "art",
+                        "name": "Arts and Culture"
+                    },
+                    {
+                        "id": "covid-19",
+                        "name": "COVID-19"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "Afghanistan",
+                        "iso3166CountryCode": "AF"
+                    }
+                ]
+            },
+            "country": "United States"
+        },
+        "active": true,
+        "title": "Learning Centers for Rural Afghan Women",
+        "summary": "This project supports rural Learning Centers for Afghan women various provinces, including Kabul and Herat, Afghanistan. The centers provide educational classes and income generating skills instruction, as well as giving students information on topics such as health, democracy, elections, self- care both physical and mental and leadership skills. The centers also provide opportunities to attend workshops on such things as children's rights and violence against women.",
+        "contactName": "Sakena Yacoobi",
+        "contactTitle": "Founder & CEO",
+        "contactAddress": "Creating Hope International",
+        "contactAddress2": "P. O. Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.creatinghope.org",
+        "projectLink": "https://www.globalgiving.org/projects/learning-centers-afghan-women/",
+        "progressReportLink": "https://www.globalgiving.org/projects/learning-centers-afghan-women/updates/",
+        "themeName": "Education",
+        "country": "Afghanistan",
+        "iso3166CountryCode": "AF",
+        "region": "Asia and Oceania",
+        "goal": 98000.0,
+        "funding": 65776.84,
+        "remaining": 32223.16,
+        "numberOfDonations": 1564,
+        "status": "active",
+        "need": "During the time of the first Taliban regime in Afghanistan, education for women and girls was banned. AIL ran underground schools nonetheless, and then in 2003 opened Learning Centers to help make up for \"the lost education years\". Education services include: literacy, math, language and skills training classes. This project will ensure continuation of these urgently needed, accessible, culturally appropriate educational opportunities.",
+        "longTermImpact": "A full array of educational services are provided to rural women and girls through Learning Centers in Kabul and Herat Provinces and elsewhere in Afghanistan. These centers improve the education of Afghan women in the region giving them more options in life.",
+        "activities": "Literacy, math, computers, English, and income-generating skills classes such as tailoring and English are offered at Learning Centers in various provinces in Afghanistan. Each year over thousands of students benefit from educational opportunities that include classes and workshops.",
+        "imageLink": "https://www.globalgiving.org/pfil/354/pict.jpg",
+        "imageGallerySize": 8,
+        "longitude": 62.16064453125,
+        "latitude": 34.56085968017578,
+        "approvedDate": "2008-08-05T15:10:59-04:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 25,
+                    "description": "15 women will learn to read."
+                },
+                {
+                    "amount": 50,
+                    "description": "5 women have cloth and tools for the tailoring course."
+                },
+                {
+                    "amount": 75,
+                    "description": "1 month of a teacher's salary for 30 literacy students"
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:56-04:00",
+        "numberOfReports": 85,
+        "dateOfMostRecentReport": "2023-07-24T06:20:57-04:00",
+        "image": {
+            "title": "Learning Centers for Rural Afghan Women",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/354/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/354/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/354/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/354/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/354/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/354/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "edu",
+                    "name": "Education"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "Afghanistan",
+                    "iso3166CountryCode": "AF"
+                }
+            ]
+        },
+        "type": "project"
+    },
+    {
+        "id": 362,
+        "organization": {
+            "id": 254,
+            "name": "Creating Hope International (CHI)",
+            "ein": "38-3288402",
+            "addressLine1": "Creating Hope International",
+            "addressLine2": "PO Box 1058",
+            "city": "Dearborn",
+            "state": "Michigan",
+            "postal": "48121",
+            "iso3166CountryCode": "US",
+            "url": "http://www.sakena.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/254/orglogo.jpg",
+            "mission": "Sakena Fund (formerly Creating Hope International) was founded with the vision of bringing hope to victims of war, political unrest, and natural disasters through programs designed to help them rebuild their lives for a brighter tomorrow. CHI's mission is to empower grassroots organizations that provide education, training, and health care to needy people. CHI supports organizations that respond to community needs on an individual level, foster community participation and utilize culturally sensitive education and training.",
+            "totalProjects": 205,
+            "activeProjects": 6,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "children",
+                        "name": "Child Protection"
+                    },
+                    {
+                        "id": "ecdev",
+                        "name": "Economic Growth"
+                    },
+                    {
+                        "id": "edu",
+                        "name": "Education"
+                    },
+                    {
+                        "id": "gender",
+                        "name": "Gender Equality"
+                    },
+                    {
+                        "id": "human",
+                        "name": "Ending Human Trafficking"
+                    },
+                    {
+                        "id": "tech",
+                        "name": "Digital Literacy"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "Afghanistan",
+                        "iso3166CountryCode": "AF"
+                    },
+                    {
+                        "name": "India",
+                        "iso3166CountryCode": "IN"
+                    },
+                    {
+                        "name": "United States",
+                        "iso3166CountryCode": "US"
+                    }
+                ]
+            },
+            "country": "United States"
+        },
+        "active": true,
+        "title": "Educating Tibetan Bon Children and Youth",
+        "summary": "This project will help Tibetan Bon children and youth, who are orphans or poor, by providing housing, food and primary through post- secondary education. These children fled their homeland and are living as refugees in other states. A minority group, many Tibetan Bon children live in poverty and have no access to education. The  Bon Center in northern India houses, feeds and provides education to hundreds of Bon children and youth, giving them an opportunity for a better life.",
+        "contactName": "Sakena Yacoobi",
+        "contactAddress": "Creating Hope International",
+        "contactAddress2": "P. O. Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.creatinghope.org",
+        "projectLink": "https://www.globalgiving.org/projects/educate-refugee-bon-tibetan-children-in-india/",
+        "progressReportLink": "https://www.globalgiving.org/projects/educate-refugee-bon-tibetan-children-in-india/updates/",
+        "themeName": "Education",
+        "country": "India",
+        "iso3166CountryCode": "IN",
+        "region": "Asia and Oceania",
+        "goal": 70000.0,
+        "funding": 62974.91,
+        "remaining": 7025.09,
+        "numberOfDonations": 462,
+        "status": "active",
+        "need": "The Bon are a minority Tibetan ethnic group that fled to India when the Chinese invaded Tibet in 1959. In 1968, the Bon established a community in Dolanji, India. Today, the community has 3 children's hostels, a school (through 12th grade), a health center and a community farm. The students in the Bon community come from Tibet, Mongolia, India, Nepal and Bhutan. The students are refugees from Tibet or long-time residents of the other countries but lack educational opportunity at home.",
+        "longTermImpact": "Education will improve these children's opportunities and the standard of living for the entire community. Some Tibetan students who have benefited from past scholarship programs have returned to Dolanji, India as teachers, leaders or health workers. Other students have gone onto technical school, university or other study or started work and been able to provide income to their families.",
+        "activities": "Providing children with a scholarship means they can attend the Bon Center and get a quality education from primary through secondary education and even post secondary.  This project will help some of the  hundreds of children and youth, most of them refugees,  to be able to live in the center and attend the Bon school.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/362/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/362/pict.jpg",
+        "imageGallerySize": 8,
+        "longitude": 77.07801818847656,
+        "latitude": 30.873939514160156,
+        "approvedDate": "2008-08-05T17:13:11-04:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 27,
+                    "description": "Provides 3 nutritious meals to 126 orphans and poor Tibetan refugee students."
+                },
+                {
+                    "amount": 36,
+                    "description": "Provides room and board at school for one Tibetan refugee for one month."
+                },
+                {
+                    "amount": 50,
+                    "description": "Provides books and school supplies to 10 students for one year."
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:56-04:00",
+        "numberOfReports": 72,
+        "dateOfMostRecentReport": "2023-07-24T06:23:07-04:00",
+        "image": {
+            "title": "Educating Tibetan Bon Children and Youth",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/362/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/362/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/362/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/362/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/362/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/362/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "edu",
+                    "name": "Education"
+                },
+                {
+                    "id": "refugee",
+                    "name": "Refugee Rights"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "India",
+                    "iso3166CountryCode": "IN"
+                }
+            ]
+        },
+        "type": "project"
+    },
+    {
+        "id": 554,
+        "organization": {
+            "id": 189,
+            "name": "GlobalGiving",
+            "ein": "30-0108263",
+            "addressLine1": "1 Thomas Circle NW",
+            "addressLine2": "Suite 800",
+            "city": "Washington",
+            "state": "D.C.",
+            "postal": "20005",
+            "iso3166CountryCode": "US",
+            "url": "https://www.globalgiving.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/189/orglogo.png",
+            "mission": "Our mission is to build an efficient, open, thriving marketplace that connects people who have community and world-changing ideas with people who can support them.",
+            "totalProjects": 249,
+            "activeProjects": 35,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "animals",
+                        "name": "Animal Welfare"
+                    },
+                    {
+                        "id": "children",
+                        "name": "Child Protection"
+                    },
+                    {
+                        "id": "democ",
+                        "name": "Peace and Reconciliation"
+                    },
+                    {
+                        "id": "disaster",
+                        "name": "Disaster Response"
+                    },
+                    {
+                        "id": "ecdev",
+                        "name": "Economic Growth"
+                    },
+                    {
+                        "id": "edu",
+                        "name": "Education"
+                    },
+                    {
+                        "id": "env",
+                        "name": "Ecosystem Restoration"
+                    },
+                    {
+                        "id": "gender",
+                        "name": "Gender Equality"
+                    },
+                    {
+                        "id": "health",
+                        "name": "Physical Health"
+                    },
+                    {
+                        "id": "rights",
+                        "name": "Justice and Human Rights"
+                    },
+                    {
+                        "id": "tech",
+                        "name": "Digital Literacy"
+                    },
+                    {
+                        "id": "hunger",
+                        "name": "Food Security"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "Afghanistan",
+                        "iso3166CountryCode": "AF"
+                    },
+                    {
+                        "name": "Bangladesh",
+                        "iso3166CountryCode": "BD"
+                    },
+                    {
+                        "name": "Brazil",
+                        "iso3166CountryCode": "BR"
+                    },
+                    {
+                        "name": "Burkina Faso",
+                        "iso3166CountryCode": "BF"
+                    },
+                    {
+                        "name": "Cambodia",
+                        "iso3166CountryCode": "KH"
+                    },
+                    {
+                        "name": "Chad",
+                        "iso3166CountryCode": "TD"
+                    },
+                    {
+                        "name": "Chile",
+                        "iso3166CountryCode": "CL"
+                    },
+                    {
+                        "name": "China",
+                        "iso3166CountryCode": "CN"
+                    },
+                    {
+                        "name": "Costa Rica",
+                        "iso3166CountryCode": "CR"
+                    },
+                    {
+                        "name": "Congo, Democratic Republic of the",
+                        "iso3166CountryCode": "CD"
+                    },
+                    {
+                        "name": "Djibouti",
+                        "iso3166CountryCode": "DJ"
+                    },
+                    {
+                        "name": "Ethiopia",
+                        "iso3166CountryCode": "ET"
+                    },
+                    {
+                        "name": "Finland",
+                        "iso3166CountryCode": "FI"
+                    },
+                    {
+                        "name": "Guatemala",
+                        "iso3166CountryCode": "GT"
+                    },
+                    {
+                        "name": "Guyana",
+                        "iso3166CountryCode": "GY"
+                    },
+                    {
+                        "name": "Haiti",
+                        "iso3166CountryCode": "HT"
+                    },
+                    {
+                        "name": "Hong Kong SAR",
+                        "iso3166CountryCode": "HK"
+                    },
+                    {
+                        "name": "India",
+                        "iso3166CountryCode": "IN"
+                    },
+                    {
+                        "name": "Indonesia",
+                        "iso3166CountryCode": "ID"
+                    },
+                    {
+                        "name": "Italy",
+                        "iso3166CountryCode": "IT"
+                    },
+                    {
+                        "name": "Japan",
+                        "iso3166CountryCode": "JP"
+                    },
+                    {
+                        "name": "Kenya",
+                        "iso3166CountryCode": "KE"
+                    },
+                    {
+                        "name": "Malawi",
+                        "iso3166CountryCode": "MW"
+                    },
+                    {
+                        "name": "Malaysia",
+                        "iso3166CountryCode": "MY"
+                    },
+                    {
+                        "name": "Mali",
+                        "iso3166CountryCode": "ML"
+                    },
+                    {
+                        "name": "Mauritania",
+                        "iso3166CountryCode": "MR"
+                    },
+                    {
+                        "name": "Morocco",
+                        "iso3166CountryCode": "MA"
+                    },
+                    {
+                        "name": "Myanmar",
+                        "iso3166CountryCode": "MM"
+                    },
+                    {
+                        "name": "Namibia",
+                        "iso3166CountryCode": "NA"
+                    },
+                    {
+                        "name": "Nepal",
+                        "iso3166CountryCode": "NP"
+                    },
+                    {
+                        "name": "New Zealand",
+                        "iso3166CountryCode": "NZ"
+                    },
+                    {
+                        "name": "Niger",
+                        "iso3166CountryCode": "NE"
+                    },
+                    {
+                        "name": "Pakistan",
+                        "iso3166CountryCode": "PK"
+                    },
+                    {
+                        "name": "Paraguay",
+                        "iso3166CountryCode": "PY"
+                    },
+                    {
+                        "name": "Philippines",
+                        "iso3166CountryCode": "PH"
+                    },
+                    {
+                        "name": "Rwanda",
+                        "iso3166CountryCode": "RW"
+                    },
+                    {
+                        "name": "Senegal",
+                        "iso3166CountryCode": "SN"
+                    },
+                    {
+                        "name": "Sierra Leone",
+                        "iso3166CountryCode": "SL"
+                    },
+                    {
+                        "name": "Somalia",
+                        "iso3166CountryCode": "SO"
+                    },
+                    {
+                        "name": "South Africa",
+                        "iso3166CountryCode": "ZA"
+                    },
+                    {
+                        "name": "South Korea",
+                        "iso3166CountryCode": "KR"
+                    },
+                    {
+                        "name": "Spain",
+                        "iso3166CountryCode": "ES"
+                    },
+                    {
+                        "name": "Sri Lanka",
+                        "iso3166CountryCode": "LK"
+                    },
+                    {
+                        "name": "Sudan",
+                        "iso3166CountryCode": "SD"
+                    },
+                    {
+                        "name": "Tanzania, United Republic of",
+                        "iso3166CountryCode": "TZ"
+                    },
+                    {
+                        "name": "Thailand",
+                        "iso3166CountryCode": "TH"
+                    },
+                    {
+                        "name": "Turkey",
+                        "iso3166CountryCode": "TR"
+                    },
+                    {
+                        "name": "Uganda",
+                        "iso3166CountryCode": "UG"
+                    },
+                    {
+                        "name": "United Kingdom",
+                        "iso3166CountryCode": "GB"
+                    },
+                    {
+                        "name": "United States",
+                        "iso3166CountryCode": "US"
+                    },
+                    {
+                        "name": "Vietnam",
+                        "iso3166CountryCode": "VN"
+                    },
+                    {
+                        "name": "Samoa",
+                        "iso3166CountryCode": "WS"
+                    },
+                    {
+                        "name": "Zambia",
+                        "iso3166CountryCode": "ZM"
+                    }
+                ]
+            },
+            "country": "United States"
+        },
+        "active": true,
+        "title": "GlobalGiving Flex Fund",
+        "summary": "There are thousands of urgent causes in need of support in the GlobalGiving community, and your gift to our Flex Fund is one of the best ways to help them all. Every $1 donated to this fund generates $7 in return for GlobalGiving's high-impact nonprofit partners.",
+        "contactAddress": "1 Thomas Circle",
+        "contactAddress2": "Suite 800",
+        "contactCity": "Washington",
+        "contactState": "D.C.",
+        "contactPostal": "20005",
+        "contactCountry": "United States",
+        "contactUrl": "https://www.globalgiving.org",
+        "projectLink": "https://www.globalgiving.org/funds/flex/",
+        "progressReportLink": "https://www.globalgiving.org/funds/flex/updates/",
+        "themeName": "Economic Growth",
+        "country": "United States",
+        "iso3166CountryCode": "US",
+        "region": "North America",
+        "goal": 7000000.0,
+        "funding": 5962124.42,
+        "remaining": 1037875.58,
+        "numberOfDonations": 112552,
+        "status": "active",
+        "need": "No-strings-attached, flexible funding is one of the most efficient and cost-effective ways to fuel social change. Yet, it is in short supply. Most aid is earmarked, meaning it can only be used for pre-determined, narrow purposes. Your donation to the GlobalGiving Flex Fund stands in opposition, providing flexible funding to GlobalGiving and our vetted nonprofit partners around the world. This gives us the freedom to innovate and adapt to crises and everyday needs around the world.",
+        "longTermImpact": "By being part of the Flex Fund, you shift vital resources to community-led nonprofits and motivate other donors to follow your lead. Your donation generates 7x worth of local, long-term impact. It is an efficient and effective choice for change. Please consider becoming a sustaining, monthly donor to help community leaders consistently get the resources they need to solve some of the world's biggest problems.",
+        "activities": "The Flex Fund powers GlobalGiving's matching campaigns and motivates others to give. This is how every $1 you donate grows into $7 of impact. The Flex Fund is also a source for emergency grantmaking and special projects, such as our COVID-19 Hardship Microgrants Initiative, which delivered grants to nonprofits during one of the toughest periods of the pandemic. Flex donations also support GlobalGiving's general operations, all in service of our mission to accelerate community-led change.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/554/projdoc.pdf",
+        "imageLink": "https://www.globalgiving.org/pfil/554/pict.jpg",
+        "imageGallerySize": 3,
+        "videos": {
+            "video": [
+                {
+                    "url": ""
+                }
+            ]
+        },
+        "longitude": -77.03750610351562,
+        "latitude": 38.92020034790039,
+        "approvedDate": "2004-06-01T12:45:32-04:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 15,
+                    "description": "Matching funds + support for causes worldwide"
+                },
+                {
+                    "amount": 50,
+                    "description": "Matching funds + support for causes worldwide"
+                },
+                {
+                    "amount": 150,
+                    "description": "Matching funds + support for causes worldwide"
+                },
+                {
+                    "amount": 500,
+                    "description": "Matching funds + support for causes worldwide"
+                },
+                {
+                    "amount": 1000,
+                    "description": "Matching funds + support for causes worldwide"
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:56-04:00",
+        "numberOfReports": 5,
+        "dateOfMostRecentReport": "2023-03-15T15:42:02-04:00",
+        "image": {
+            "title": "GlobalGiving Flex Fund",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/554/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/554/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/554/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/554/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/554/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/554/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "trustedAndReliable": "<p>GlobalGiving is one of the most reliable and trustworthy charities in the world. We have a four-star rating and nearly perfect score from Charity Navigator due to our commitment to transparency and low overhead. We have been recommended by the New York Times, the Associated Press, NPR, Washington Post, Oprah, ABC News, and the U.S. State Department.</p>",
+        "themes": {
+            "theme": [
+                {
+                    "id": "ecdev",
+                    "name": "Economic Growth"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "United States",
+                    "iso3166CountryCode": "US"
+                }
+            ]
+        },
+        "type": "fund"
+    },
+    {
+        "id": 593,
+        "organization": {
+            "id": 6705,
+            "name": "PlanetRead",
+            "ein": "571198966",
+            "addressLine1": "66, Kamatchi Amman Koil st.,",
+            "addressLine2": "",
+            "city": "Pondicherry",
+            "state": "Pondicherry",
+            "postal": "605001",
+            "iso3166CountryCode": "IN",
+            "url": "http://www.planetread.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/6705/orglogo.jpg",
+            "mission": "PlanetRead is a registered not for profit with the simple vision of a reading planet - a planet where everyone can read and has access to interesting and affordable reading opportunities in native and other language(s). \nWe contribute to literacy worldwide by innovating and implementing simple, scalable, and cost-effective solutions, especially using mass media and information technologies.",
+            "totalProjects": 2,
+            "activeProjects": 2,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "edu",
+                        "name": "Education"
+                    },
+                    {
+                        "id": "tech",
+                        "name": "Digital Literacy"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "India",
+                        "iso3166CountryCode": "IN"
+                    }
+                ]
+            },
+            "country": "India"
+        },
+        "active": true,
+        "title": "Literacy for a Billion in India!",
+        "summary": "PlanetRead uses SLS in 10 languages nationwide to provide automatic reading practice to 300 million early literates people who are officially \"literate\" but who cannot read.",
+        "contactName": "Brij Kothari",
+        "contactTitle": "Founder and President",
+        "contactAddress": "26 Manor Street",
+        "contactCity": "Piedmont",
+        "contactState": "CA",
+        "contactPostal": "94611",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.planetread.org",
+        "projectLink": "https://www.globalgiving.org/projects/help-fight-illiteracy-in-india/",
+        "progressReportLink": "https://www.globalgiving.org/projects/help-fight-illiteracy-in-india/updates/",
+        "themeName": "Education",
+        "country": "India",
+        "iso3166CountryCode": "IN",
+        "region": "Asia and Oceania",
+        "goal": 50000.0,
+        "funding": 4975.4,
+        "remaining": 45024.6,
+        "numberOfDonations": 121,
+        "status": "active",
+        "need": "300 million early-literates in India cannot read the headlines of a newspaper. Another 300 million cannot read the alphabet. Same Language Subtitling (SLS) recommends subtitling the lyrics of all film song programs on TV, nationally, in the \"same\" language as the audio. A decade of research has proven that this Karaoke approach to literacy improves the reading skills of millions of viewers.  Cost: $1 (the price of a cup of coffee) gives 10,000 people reading practice for one whole year!",
+        "longTermImpact": "PlanetRead's \"karaoke\" approach to literacy provides automatic and regular reading practice to over 300 million early-literates in India.  In addition, nearly 300 million illiterate people are motivated to become literate.",
+        "activities": "About 300 million early (semi) literates get automatic reading practice with the help of PlanetRead's SLS in 10 different languages nationwide.In addition, nearly 270 million illiterate people are motivated to become literate.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/593/projdoc.pdf",
+        "imageLink": "https://www.globalgiving.org/pfil/593/pict.jpg",
+        "imageGallerySize": 13,
+        "videos": {
+            "video": [
+                {
+                    "url": "http://www.youtube.com/v/tOsWToI2PIw"
+                }
+            ]
+        },
+        "approvedDate": "2004-06-22T18:50:24-04:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 10,
+                    "description": "A town of 100,000 people reads for a year."
+                },
+                {
+                    "amount": 20,
+                    "description": "100 villages of 2,000 people each read for a year."
+                },
+                {
+                    "amount": 40,
+                    "description": "200 villages of 2,000 people each read for a year."
+                },
+                {
+                    "amount": 50,
+                    "description": "Reading for half-a-million people!"
+                },
+                {
+                    "amount": 100,
+                    "description": "Reading for a million people!"
+                },
+                {
+                    "amount": 1000,
+                    "description": "Reading for 10 million people!"
+                },
+                {
+                    "amount": 2000,
+                    "description": "Reading for 20 million people!"
+                },
+                {
+                    "amount": 5000,
+                    "description": "Reading for 50 million people!"
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:56-04:00",
+        "numberOfReports": 55,
+        "dateOfMostRecentReport": "2023-10-11T11:39:10-04:00",
+        "image": {
+            "title": "Literacy for a Billion in India!",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/593/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/593/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/593/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/593/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/593/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/593/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "edu",
+                    "name": "Education"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "India",
+                    "iso3166CountryCode": "IN"
+                }
+            ]
+        },
+        "type": "project"
+    },
+    {
+        "id": 624,
+        "organization": {
+            "id": 218,
+            "name": "Center for Inspired Teaching",
+            "ein": "52-1944180",
+            "addressLine1": "5614 Connecticut AVE NW",
+            "addressLine2": "Suite 258",
+            "city": "Washington",
+            "state": "DC",
+            "postal": "200015-2604",
+            "iso3166CountryCode": "US",
+            "url": "http://www.inspiredteaching.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/218/orglogo.jpg",
+            "mission": "Center for Inspired Teaching envisions a future in which every person is prepared to thrive in and contribute to our complex and rapidly changing world, through an education that teaches students how to think.\n\nInspired Teaching transforms the PreK-12 school system by cultivating changemaking educators who authentically engage their students as active learners and empathetic critical thinkers.",
+            "totalProjects": 1,
+            "activeProjects": 1,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "edu",
+                        "name": "Education"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "United States",
+                        "iso3166CountryCode": "US"
+                    }
+                ]
+            },
+            "country": "United States"
+        },
+        "active": true,
+        "title": "Making Learning Joyfully Rigorous for Students",
+        "summary": "Center for Inspired Teaching works with hundreds of teachers in the public and public charter schools. We train teachers to create classrooms that engage students in lessons grounded in real-world issues. We have a commitment to working in schools with high-poverty rates. We re-level the playing field by equipping students, through excellent instruction, with critical thinking and problem-solving skills in addition to mastery of key content and concepts.",
+        "contactName": "Caitlin Wolf",
+        "contactTitle": "Executive Director",
+        "contactAddress": "1436 U Street, NW",
+        "contactAddress2": "Suite 400",
+        "contactCity": "Washington",
+        "contactState": "DC",
+        "contactPostal": "20009",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.inspiredteaching.org",
+        "projectLink": "https://www.globalgiving.org/projects/innovative-teaching-strategies/",
+        "progressReportLink": "https://www.globalgiving.org/projects/innovative-teaching-strategies/updates/",
+        "themeName": "Education",
+        "country": "United States",
+        "iso3166CountryCode": "US",
+        "region": "North America",
+        "goal": 75000.0,
+        "funding": 12058.32,
+        "remaining": 62941.68,
+        "numberOfDonations": 167,
+        "status": "active",
+        "need": "Low-income students in the US are more likely than their affluent peers to experience a public education that emphasizes reciting, memorizing and repeating back answers. However, these are outdated skills in our globalized, knowledge economy. The skills most needed now are critical thinking and problem solving. That's where Inspired Teaching comes in. We train teachers to cultivate these skills in young people in urban public schools.",
+        "longTermImpact": "Participants are trained to take on leadership roles in their schools and districts, creating a multiplier effect that extends the power of the Institute well beyond the participants' classrooms. The Inspired Teaching Institute aims to change the school experience for hundreds of thousands of students in the United States and beyond.",
+        "activities": "Inspired Teaching partners with the teacher as the leverage point for change in the education system. We invest in preK-12 teachers at all stages of their careers through programs that prepare new teachers, strengthen the practice of inservice teachers, and amplify teachers' work as changemakers. Through our programs, we ensure that every teacher becomes an Instigator of Thought.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/624/projdoc.pdf",
+        "imageLink": "https://www.globalgiving.org/pfil/624/pict.jpg",
+        "imageGallerySize": 10,
+        "longitude": -77.03750610351562,
+        "latitude": 38.92020034790039,
+        "approvedDate": "2007-10-15T11:26:51-04:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 25,
+                    "description": "a book for a high school student participating in our Real World History course"
+                },
+                {
+                    "amount": 50,
+                    "description": "science materials that would go toward training on Next Generation Science Standards for science educators."
+                },
+                {
+                    "amount": 100,
+                    "description": "One week of graduate-level coursework for an Inspired Teaching Fellow"
+                },
+                {
+                    "amount": 250,
+                    "description": "Two mentoring sessions for a teacher in their first year of teaching."
+                },
+                {
+                    "amount": 500,
+                    "description": "Two months of mentoring for 1 Fellow"
+                },
+                {
+                    "amount": 1000,
+                    "description": "One month of intensive coursework for 12 Fellows"
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:56-04:00",
+        "numberOfReports": 61,
+        "dateOfMostRecentReport": "2023-07-26T16:56:21-04:00",
+        "image": {
+            "title": "Making Learning Joyfully Rigorous for Students",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/624/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/624/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/624/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/624/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/624/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/624/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "edu",
+                    "name": "Education"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "United States",
+                    "iso3166CountryCode": "US"
+                }
+            ]
+        },
+        "type": "project"
+    },
+    {
+        "id": 714,
+        "organization": {
+            "id": 56,
+            "name": "Abalimi Bezekhaya - Planters of the Home",
+            "addressLine1": "PO Box 44 Observatory",
+            "addressLine2": "",
+            "city": "Cape Town",
+            "state": "Western Cape",
+            "postal": "7708",
+            "iso3166CountryCode": "ZA",
+            "url": "http://www.abalimi.org.za",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/56/orglogo.jpg",
+            "mission": "Abalimi is a Volunteer Association working to empower the disadvantaged through its organic Urban Agriculture program & projects.  We support our target groups' ability to replicate their success and transform their lives in their urban and rural environments, through the following Key Result Areas: resource support; training; organisation building; facilitation of partnerships; research, monitoring and evaluation.",
+            "totalProjects": 2,
+            "activeProjects": 1,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "climate",
+                        "name": "Climate Action"
+                    },
+                    {
+                        "id": "env",
+                        "name": "Ecosystem Restoration"
+                    },
+                    {
+                        "id": "health",
+                        "name": "Physical Health"
+                    },
+                    {
+                        "id": "rights",
+                        "name": "Justice and Human Rights"
+                    },
+                    {
+                        "id": "hunger",
+                        "name": "Food Security"
+                    },
+                    {
+                        "id": "agriculture",
+                        "name": "Sustainable Agriculture"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "South Africa",
+                        "iso3166CountryCode": "ZA"
+                    }
+                ]
+            },
+            "country": "South Africa"
+        },
+        "active": true,
+        "title": "Micro-farming among the poor Cape Town",
+        "summary": "Individuals in poor communities are trained and supported to tackle hunger, under employment, income generation and community health by growing and replicating organic vegetable gardens with indigenous floral windbreaks & herbs",
+        "contactName": "Rob Small",
+        "contactAddress": "PO Box 44",
+        "contactAddress2": "Observatory",
+        "contactCity": "Cape Town",
+        "contactState": "Western Cape",
+        "contactPostal": "7935",
+        "contactCountry": "South Africa",
+        "contactUrl": "http://www.abalimi.org.za",
+        "projectLink": "https://www.globalgiving.org/projects/healthy-sustainable-agriculture-livelihoods/",
+        "progressReportLink": "https://www.globalgiving.org/projects/healthy-sustainable-agriculture-livelihoods/updates/",
+        "themeName": "Food Security",
+        "country": "South Africa",
+        "iso3166CountryCode": "ZA",
+        "region": "Africa",
+        "goal": 100000.0,
+        "funding": 92024.12,
+        "remaining": 7975.88,
+        "numberOfDonations": 1170,
+        "status": "active",
+        "need": "The project continues to target unemployed individuals living in South Africa's poverty-stricken Cape Flats townships.  People living in the densely populated Cape Flats experience high unemployment (50-90%), hunger, environmental degradation, lack of education and skills, a high HIV/AIDS infection rate and limited resources.",
+        "longTermImpact": "Hunger, unemployment and environmental degradation are visibly reduced as individuals establish sustainable vegetable and indigenous gardens.",
+        "activities": "Activities continue to include urban agriculture and horticulture training, resource distribution, implementation of gardens, follow-up training and support.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/714/projdoc.pdf",
+        "imageLink": "https://www.globalgiving.org/pfil/714/pict.jpg",
+        "imageGallerySize": 9,
+        "videos": {
+            "video": [
+                {
+                    "url": ""
+                }
+            ]
+        },
+        "longitude": 18.585723876953125,
+        "latitude": -33.991817474365234,
+        "approvedDate": "2004-07-28T09:27:03-04:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 14,
+                    "description": "Supports one micro-farmer with all necessary essential services, to develop his/her micro-farm sustain-ably for one month"
+                },
+                {
+                    "amount": 20,
+                    "description": "Plants one tree in a disadvantaged township, and includes training and follow-up."
+                },
+                {
+                    "amount": 42,
+                    "description": "Establishes one new township vegetable garden, and includes training, resources and follow-up."
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:56-04:00",
+        "numberOfReports": 81,
+        "dateOfMostRecentReport": "2023-05-25T07:24:12-04:00",
+        "image": {
+            "title": "Micro-farming among the poor Cape Town",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/714/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/714/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/714/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/714/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/714/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/714/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "hunger",
+                    "name": "Food Security"
+                },
+                {
+                    "id": "climate",
+                    "name": "Climate Action"
+                },
+                {
+                    "id": "health",
+                    "name": "Physical Health"
+                },
+                {
+                    "id": "rights",
+                    "name": "Justice and Human Rights"
+                },
+                {
+                    "id": "mentalhealth",
+                    "name": "Mental Health"
+                },
+                {
+                    "id": "justice",
+                    "name": "Racial Justice"
+                },
+                {
+                    "id": "agriculture",
+                    "name": "Sustainable Agriculture"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "South Africa",
+                    "iso3166CountryCode": "ZA"
+                }
+            ]
+        },
+        "type": "project"
+    },
+    {
+        "id": 736,
+        "organization": {
+            "id": 291,
+            "name": "Himalayan Cataract Project, Inc.",
+            "ein": "03-0362926",
+            "addressLine1": "PO Box 55",
+            "addressLine2": "",
+            "city": "Waterbury",
+            "state": "VT",
+            "postal": "05676",
+            "iso3166CountryCode": "US",
+            "url": "http://www.cureblindness.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/291/orglogo.png",
+            "mission": "HCP Cureblindness (cureblindness.org) strives to cure avoidable blindness with the highest quality care at the lowest cost.",
+            "totalProjects": 4,
+            "activeProjects": 1,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "health",
+                        "name": "Physical Health"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "Bhutan",
+                        "iso3166CountryCode": "BT"
+                    },
+                    {
+                        "name": "China",
+                        "iso3166CountryCode": "CN"
+                    },
+                    {
+                        "name": "Eritrea",
+                        "iso3166CountryCode": "ER"
+                    },
+                    {
+                        "name": "Ethiopia",
+                        "iso3166CountryCode": "ET"
+                    },
+                    {
+                        "name": "Ghana",
+                        "iso3166CountryCode": "GH"
+                    },
+                    {
+                        "name": "India",
+                        "iso3166CountryCode": "IN"
+                    },
+                    {
+                        "name": "Kenya",
+                        "iso3166CountryCode": "KE"
+                    },
+                    {
+                        "name": "Malawi",
+                        "iso3166CountryCode": "MW"
+                    },
+                    {
+                        "name": "Mali",
+                        "iso3166CountryCode": "ML"
+                    },
+                    {
+                        "name": "Myanmar",
+                        "iso3166CountryCode": "MM"
+                    },
+                    {
+                        "name": "Nepal",
+                        "iso3166CountryCode": "NP"
+                    },
+                    {
+                        "name": "Nigeria",
+                        "iso3166CountryCode": "NG"
+                    },
+                    {
+                        "name": "North Korea",
+                        "iso3166CountryCode": "KP"
+                    },
+                    {
+                        "name": "Philippines",
+                        "iso3166CountryCode": "PH"
+                    },
+                    {
+                        "name": "Rwanda",
+                        "iso3166CountryCode": "RW"
+                    },
+                    {
+                        "name": "Senegal",
+                        "iso3166CountryCode": "SN"
+                    },
+                    {
+                        "name": "Sudan",
+                        "iso3166CountryCode": "SD"
+                    },
+                    {
+                        "name": "Tanzania, United Republic of",
+                        "iso3166CountryCode": "TZ"
+                    },
+                    {
+                        "name": "Thailand",
+                        "iso3166CountryCode": "TH"
+                    },
+                    {
+                        "name": "Uganda",
+                        "iso3166CountryCode": "UG"
+                    },
+                    {
+                        "name": "South Sudan",
+                        "iso3166CountryCode": "SS"
+                    }
+                ]
+            },
+            "country": "United States"
+        },
+        "active": true,
+        "title": "HCP Cure Blindness",
+        "summary": "HCP Cure Blindness aspires to cure global blindness, one patient at a time. Through surgical outreaches, ophthalmic training opportunities, and medical equipment procurement, we bring sight to the needlessly blind and reliable eye care systems to remote, low-income communities throughout South Asia and sub-Saharan Africa.",
+        "contactName": "Colleen Beamish",
+        "contactAddress": "PO Box 55",
+        "contactCity": "Waterbury",
+        "contactState": "VT",
+        "contactPostal": "05676",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.cureblindness.org",
+        "projectLink": "https://www.globalgiving.org/projects/himalaya-cataract-project/",
+        "progressReportLink": "https://www.globalgiving.org/projects/himalaya-cataract-project/updates/",
+        "themeName": "Physical Health",
+        "country": "Nepal",
+        "iso3166CountryCode": "NP",
+        "region": "Asia and Oceania",
+        "goal": 100000.0,
+        "funding": 95256.47,
+        "remaining": 4743.53,
+        "numberOfDonations": 1182,
+        "status": "active",
+        "need": "The World Health Organization estimates that 180 million people suffer from severe visual impairment (legally blind, by U.S. standards). The leading cause of blindness throughout the world is cataracts and 90% of this blindness is found in the developing world.",
+        "longTermImpact": "The suffering caused by blindness deeply affects the family of each unfortunate, blinded individual, especially in remote regions of developing countries. With restored sight, many people return to work and to traditional roles in their families and societies.",
+        "activities": "HCP Cure Blindness has developed highly-efficient approaches in each of the critical areas of surgery, training and education. Through high-volume surgical campaigns, thousands of people regain their sight each year and many more are screened for preventable eye-related diseases. We train local eye care teams to build sustainable infrastructure to maintain quality eye care in remote regions indefinitely and procure equipment to be sure people in remote areas are receiving the best possible care.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/736/projdoc.pdf",
+        "imageLink": "https://www.globalgiving.org/pfil/736/pict.jpg",
+        "imageGallerySize": 6,
+        "approvedDate": "2004-07-29T07:54:22-04:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 10,
+                    "description": "Provides consumables for cataract surgery"
+                },
+                {
+                    "amount": 20,
+                    "description": "Restores sight to 1 individual enabling her to once again become a productive member of the family."
+                },
+                {
+                    "amount": 100,
+                    "description": "Screens 50 people for eye disease preventing debilitating complications in the future."
+                },
+                {
+                    "amount": 1000,
+                    "description": "Provides 1 local ophthalmologist with materials to perform 50 additional surgeries."
+                },
+                {
+                    "amount": 5000,
+                    "description": "Restores sight to approx. 300 people who are able to SEE their family for the first time in a long time."
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:56-04:00",
+        "numberOfReports": 55,
+        "dateOfMostRecentReport": "2023-08-22T14:46:52-04:00",
+        "image": {
+            "title": "HCP Cure Blindness",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/736/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/736/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/736/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/736/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/736/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/736/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "health",
+                    "name": "Physical Health"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "Nepal",
+                    "iso3166CountryCode": "NP"
+                }
+            ]
+        },
+        "type": "project"
+    },
+    {
+        "id": 898,
+        "organization": {
+            "id": 349,
+            "name": "The Nyaka AIDS Orphans Project",
+            "ein": "35-2153719",
+            "addressLine1": "5095 E Brookfield Dr",
+            "addressLine2": "",
+            "city": "East Lansing",
+            "state": "MI",
+            "postal": "48823",
+            "iso3166CountryCode": "US",
+            "url": "https://nyakaglobal.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/349/orglogo.png",
+            "mission": "Nyaka educates, empowers, and transforms vulnerable and impoverished\ncommunities in Uganda, ensuring that everyone has\nthe chance to learn, grow, and thrive.",
+            "totalProjects": 41,
+            "activeProjects": 5,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "children",
+                        "name": "Child Protection"
+                    },
+                    {
+                        "id": "ecdev",
+                        "name": "Economic Growth"
+                    },
+                    {
+                        "id": "edu",
+                        "name": "Education"
+                    },
+                    {
+                        "id": "gender",
+                        "name": "Gender Equality"
+                    },
+                    {
+                        "id": "health",
+                        "name": "Physical Health"
+                    },
+                    {
+                        "id": "rights",
+                        "name": "Justice and Human Rights"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "Uganda",
+                        "iso3166CountryCode": "UG"
+                    }
+                ]
+            },
+            "country": "United States"
+        },
+        "active": true,
+        "title": "High quality education for children in Uganda",
+        "summary": "Nyaka provides free, high quality education for more than 700 orphaned and vulnerable children through two primary schools and one secondary & vocational school in rural southwest Uganda. Your donation provides clean drinking water, nutritious meals, tuition, medicine and school supplies. Nyaka, for almost two decades, has empowered students through education and holistic support to complete their education so that they can access further education or take up employment and rise out of poverty.",
+        "contactName": "Twesigye Kaguri",
+        "contactTitle": "Founder/ Director",
+        "contactAddress": "2970 E. Lake Lansing Rd",
+        "contactCity": "East Lansing",
+        "contactState": "MI",
+        "contactPostal": "48823",
+        "contactCountry": "United States",
+        "contactUrl": "http://nyakaglobal.org",
+        "projectLink": "https://www.globalgiving.org/projects/educate-children-rural-uganda/",
+        "progressReportLink": "https://www.globalgiving.org/projects/educate-children-rural-uganda/updates/",
+        "themeName": "Physical Health",
+        "country": "Uganda",
+        "iso3166CountryCode": "UG",
+        "region": "Africa",
+        "goal": 500000.0,
+        "funding": 462456.54,
+        "remaining": 37543.46,
+        "numberOfDonations": 5146,
+        "status": "active",
+        "need": "We work with communities living in poverty in southwest Uganda- many families are subsistence farmers living on $1-2 per day. There are large numbers of orphaned, abandoned or vulnerable children being cared for by grandmothers. We work holistically with communities to provide health, education and income generating programs to empower grandmothers and children to start small businesses, access medical care and education, access opportunities, plan for the future  and improve family wellbeing.",
+        "longTermImpact": "Early cohorts of Nyaka students have now graduated and gone on to study at universities in Uganda and across the world. Your support has helped to nurture a generation of journalists, doctors and lawyers who are committed to supporting their communities and making the world a better place!",
+        "activities": "Quality education is an essential step towards increased health, income generation, opportunity and choice. Your donation helps more than 700 orphaned or vulnerable children to access classroom supplies, library books, uniforms, nutritious food, clean water, medical care- as well as high quality tuition, extra curricular activities, counselling  and other support.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/898/projdoc.pdf",
+        "imageLink": "https://www.globalgiving.org/pfil/898/pict.jpg",
+        "imageGallerySize": 24,
+        "videos": {
+            "video": [
+                {
+                    "url": ""
+                }
+            ]
+        },
+        "longitude": 32.6953125,
+        "latitude": 0.5273360013961792,
+        "approvedDate": "2005-01-15T15:43:43-05:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 10,
+                    "description": "will provide school supplies for a student attending secondary school"
+                },
+                {
+                    "amount": 25,
+                    "description": "will provide a girl with necessary sanitary products and medicine for a year"
+                },
+                {
+                    "amount": 50,
+                    "description": "will provide a student with a school uniform, socks, shoes, and undergarments"
+                },
+                {
+                    "amount": 100,
+                    "description": "will provide a student with sex education classes"
+                },
+                {
+                    "amount": 375,
+                    "description": "will provide a Primary student's uniform, meals, medicine, and supplies for one school year"
+                },
+                {
+                    "amount": 625,
+                    "description": "will provide a Secondary student's uniform, meals, medicine, and supplies for one school year"
+                },
+                {
+                    "amount": 1000,
+                    "description": "will provide a Secondary AND Primary student's uniform, meals, medicine, and supplies for one school year"
+                },
+                {
+                    "amount": 1400,
+                    "description": "will provide a grandmother with a new home, smokeless kitchen, and pit latrine"
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:57-04:00",
+        "numberOfReports": 169,
+        "dateOfMostRecentReport": "2023-10-18T15:55:13-04:00",
+        "image": {
+            "title": "High quality education for children in Uganda",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/898/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/898/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/898/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/898/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/898/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/898/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "health",
+                    "name": "Physical Health"
+                },
+                {
+                    "id": "edu",
+                    "name": "Education"
+                },
+                {
+                    "id": "gender",
+                    "name": "Gender Equality"
+                },
+                {
+                    "id": "rights",
+                    "name": "Justice and Human Rights"
+                },
+                {
+                    "id": "housing",
+                    "name": "Safe Housing"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "Uganda",
+                    "iso3166CountryCode": "UG"
+                }
+            ]
+        },
+        "type": "project"
+    },
+    {
+        "id": 921,
+        "organization": {
+            "id": 372,
+            "name": "Afghan Institute of Learning",
+            "addressLine1": "Afghan Institute of Learning",
+            "addressLine2": "c/o CHI, PO Box 1058",
+            "city": "Dearborn",
+            "state": "Michigan",
+            "postal": "48121",
+            "iso3166CountryCode": "US",
+            "url": "http://www.afghaninstituteoflearning.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/372/orglogo.jpg",
+            "mission": "The Afghan Institute of Learning (AIL) works to empower all Afghans who are needy, especially women and children, providing them the knowledge and skills to care for themselves. AIL is expanding access to quality education and healthcare through community based programming, enabling communities to develop the capacity of their people. The goal is to create a foundation of quality education and health systems throughout Afghanistan which meet the needs of local people now and in the future. AIL was founded by an Afghan woman and is run mainly by women, reaching thousands each year through health facilities, educational centers and training programs.",
+            "totalProjects": 183,
+            "activeProjects": 20,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "children",
+                        "name": "Child Protection"
+                    },
+                    {
+                        "id": "climate",
+                        "name": "Climate Action"
+                    },
+                    {
+                        "id": "democ",
+                        "name": "Peace and Reconciliation"
+                    },
+                    {
+                        "id": "disaster",
+                        "name": "Disaster Response"
+                    },
+                    {
+                        "id": "ecdev",
+                        "name": "Economic Growth"
+                    },
+                    {
+                        "id": "edu",
+                        "name": "Education"
+                    },
+                    {
+                        "id": "env",
+                        "name": "Ecosystem Restoration"
+                    },
+                    {
+                        "id": "gender",
+                        "name": "Gender Equality"
+                    },
+                    {
+                        "id": "health",
+                        "name": "Physical Health"
+                    },
+                    {
+                        "id": "human",
+                        "name": "Ending Human Trafficking"
+                    },
+                    {
+                        "id": "rights",
+                        "name": "Justice and Human Rights"
+                    },
+                    {
+                        "id": "tech",
+                        "name": "Digital Literacy"
+                    },
+                    {
+                        "id": "hunger",
+                        "name": "Food Security"
+                    },
+                    {
+                        "id": "art",
+                        "name": "Arts and Culture"
+                    },
+                    {
+                        "id": "covid-19",
+                        "name": "COVID-19"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "Afghanistan",
+                        "iso3166CountryCode": "AF"
+                    }
+                ]
+            },
+            "country": "United States"
+        },
+        "active": true,
+        "title": "Afghan Institute of Learning Empowers Afghan Women",
+        "summary": "AIL empowers Afghan women by expanding their educational and health opportunities, fostering self-reliance and community participation. AIL provides education from preschool through post secondary level. An educated and health-aware woman is more likely to succeed personally, contribute economically to family and so create self- supporting family units. Education elevates girls' standing in society, provides opportunity and is the way to close the gap in gender equality.",
+        "contactName": "Sakena Yacoobi",
+        "contactTitle": "Founder & CEO",
+        "contactAddress": "Afghan Institute of Learning",
+        "contactAddress2": "c/o Creating Hope International, PO Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.afghaninstituteoflearning.org",
+        "projectLink": "https://www.globalgiving.org/projects/womens-education-in-afghanistan/",
+        "progressReportLink": "https://www.globalgiving.org/projects/womens-education-in-afghanistan/updates/",
+        "themeName": "Gender Equality",
+        "country": "Afghanistan",
+        "iso3166CountryCode": "AF",
+        "region": "Asia and Oceania",
+        "goal": 600000.0,
+        "funding": 534215.77,
+        "remaining": 65784.23,
+        "numberOfDonations": 7285,
+        "status": "active",
+        "need": "Many Afghan women and children have missed out on education and quality reproductive healthcare for years.  AIL runs clinics and Learning Centers (LCs) to help women. Education gives females a pathway from poverty, providing opportunity to succeed in work and in family care and management.  Too many women have never had the opportunity to reach their full potential and therefore contribute fully to society.",
+        "longTermImpact": "AIL is trusted and highly respected  so conservative villages trust its staff to come into their communities and  provide services. Thousands of isolated, under-served and desperate women, with few options to improve their lives, are provided with services.  Raising up women and girls through education, healthcare, training in leadership and human rights, is the way to close the gap in gender equality and to allow women to reach their potential and contribute to community and nation.",
+        "activities": "AIL's centers  provide women and children  with education such as literacy, math, tailoring, computer and English skills. These women go on to start home sewing businesses or get jobs. Quality health care provided by AIL clinics mean women are healthy and understand how to take care of themselves and their children. Healthy families can work, study and prosper. Educated women want their daughters educated. Girls are raised up in society and the gap in gender equality is closed.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/921/projdoc.xls",
+        "imageLink": "https://www.globalgiving.org/pfil/921/pict.jpg",
+        "imageGallerySize": 9,
+        "longitude": 69.202880859375,
+        "latitude": 34.50655746459961,
+        "approvedDate": "2007-12-20T10:41:01-05:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 25,
+                    "description": "15 women will learn to read"
+                },
+                {
+                    "amount": 50,
+                    "description": "36 women receive health services"
+                },
+                {
+                    "amount": 75,
+                    "description": "44 girls will learn computer skills."
+                },
+                {
+                    "amount": 500,
+                    "description": "35 teachers upgrade skills in one-day workshop"
+                },
+                {
+                    "amount": 1000,
+                    "description": "pays for 33 teachers salaries for one month"
+                },
+                {
+                    "amount": 5000,
+                    "description": "supports a WLC for 250 students for one year"
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:57-04:00",
+        "numberOfReports": 90,
+        "dateOfMostRecentReport": "2023-07-24T06:20:16-04:00",
+        "image": {
+            "title": "Afghan Institute of Learning Empowers Afghan Women",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/921/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/921/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/921/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/921/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/921/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/921/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "gender",
+                    "name": "Gender Equality"
+                },
+                {
+                    "id": "edu",
+                    "name": "Education"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "Afghanistan",
+                    "iso3166CountryCode": "AF"
+                }
+            ]
+        },
+        "type": "project"
+    },
+    {
+        "id": 1015,
+        "organization": {
+            "id": 46,
+            "name": "The River Fund",
+            "ein": "59-3212877",
+            "addressLine1": "11155 Roseland Road, Unit 16",
+            "addressLine2": "Unit 16",
+            "city": "Sebastian",
+            "state": "Florida",
+            "postal": "32958",
+            "iso3166CountryCode": "US",
+            "url": "https://www.riverfund.org",
+            "logoUrl": "https://www.globalgiving.org/pfil/organ/46/orglogo.jpg",
+            "mission": "The River Fund is dedicated to providing physical, emotional and spiritual support, to people living with or affected by HIV/AIDS and other life challenging illnesses and circumstances, as well as their loved ones and caregivers. We serve the poor, those who often are alone and in need - regardless of a person's religion, race, ethnicity, sexual orientation, gender or age.",
+            "totalProjects": 10,
+            "activeProjects": 3,
+            "themes": {
+                "theme": [
+                    {
+                        "id": "children",
+                        "name": "Child Protection"
+                    },
+                    {
+                        "id": "ecdev",
+                        "name": "Economic Growth"
+                    },
+                    {
+                        "id": "edu",
+                        "name": "Education"
+                    },
+                    {
+                        "id": "gender",
+                        "name": "Gender Equality"
+                    },
+                    {
+                        "id": "health",
+                        "name": "Physical Health"
+                    },
+                    {
+                        "id": "human",
+                        "name": "Ending Human Trafficking"
+                    },
+                    {
+                        "id": "rights",
+                        "name": "Justice and Human Rights"
+                    },
+                    {
+                        "id": "hunger",
+                        "name": "Food Security"
+                    }
+                ]
+            },
+            "countries": {
+                "country": [
+                    {
+                        "name": "Uganda",
+                        "iso3166CountryCode": "UG"
+                    },
+                    {
+                        "name": "United States",
+                        "iso3166CountryCode": "US"
+                    }
+                ]
+            },
+            "country": "United States"
+        },
+        "active": true,
+        "title": "Empower AIDS Widows - Save a Community",
+        "summary": "Together we can break the cycle of poverty and disease by empowering AIDS widows, orphaned and other vulnerable children, disabled children and adults and child-headed households. Help us help them by working toward economic sustainability through improved farming skills, vocational training, better seeds for better health and kitchen gardens, training in HIV counseling and long term survival skills.",
+        "contactName": "Jaya Canterbury-Counts",
+        "contactTitle": "Executive Director",
+        "contactAddress": "11155 Roseland Road, Unit 16",
+        "contactCity": "Sebastian",
+        "contactState": "Florida",
+        "contactPostal": "32958",
+        "contactCountry": "Uganda",
+        "contactUrl": "http://www.riverfund.org",
+        "projectLink": "https://www.globalgiving.org/projects/economic-sustainability-aids-africa/",
+        "progressReportLink": "https://www.globalgiving.org/projects/economic-sustainability-aids-africa/updates/",
+        "themeName": "Gender Equality",
+        "country": "Uganda",
+        "iso3166CountryCode": "UG",
+        "region": "Africa",
+        "goal": 52000.0,
+        "funding": 40018.24,
+        "remaining": 11981.76,
+        "numberOfDonations": 639,
+        "status": "active",
+        "need": "In a region devastated by AIDS, widows have joined small plots of land to form an organic farming co-op. With your help, they bought equipment, started training programs, learned solar food processing,  opened a sewing business. The work already underway will eventually sustain this community and spur regional development.  Right now they need farm animals, school supplies, and tools for children's health. Help these women keep developing their community for a truly sustainable future.",
+        "longTermImpact": "The goal is to move from subsistence farming to income-generating projects. The project will affect the larger community by improved nutrition, better health, HIV/AIDS education, sustainable agriculture and greater employment.",
+        "activities": "4 year plan includes skills training, new crops & markets, food processing technology, tailoring business, anumal husbandry.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/1015/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/1015/pict.jpg",
+        "imageGallerySize": 9,
+        "videos": {
+            "video": [
+                {
+                    "url": ""
+                }
+            ]
+        },
+        "longitude": 33.837890625,
+        "latitude": 0.4394490122795105,
+        "approvedDate": "2007-08-29T15:47:28-04:00",
+        "donationOptions": {
+            "donationOption": [
+                {
+                    "amount": 20,
+                    "description": "Flock of chicks for egg production."
+                },
+                {
+                    "amount": 25,
+                    "description": "Quality seeds for family/ kitchen gardens."
+                },
+                {
+                    "amount": 75,
+                    "description": "Tailoring lessons for two widows."
+                },
+                {
+                    "amount": 120,
+                    "description": "Dairy goat for children's nutrition."
+                },
+                {
+                    "amount": 175,
+                    "description": "School kits and uniforms for 50 children."
+                },
+                {
+                    "amount": 250,
+                    "description": "Mosquito bed netting to prevent malaria for 50 children."
+                },
+                {
+                    "amount": 1000,
+                    "description": "Program of pre-school care and education."
+                }
+            ]
+        },
+        "modifiedDate": "2023-11-02T22:30:57-04:00",
+        "numberOfReports": 63,
+        "dateOfMostRecentReport": "2023-09-20T12:05:41-04:00",
+        "image": {
+            "title": "Empower AIDS Widows - Save a Community",
+            "imagelink": [
+                {
+                    "url": "https://www.globalgiving.org/pfil/1015/pict_grid1.jpg",
+                    "size": "small"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/1015/pict_thumbnail.jpg",
+                    "size": "thumbnail"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/1015/pict_med.jpg",
+                    "size": "medium"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/1015/pict_grid7.jpg",
+                    "size": "large"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/1015/pict_large.jpg",
+                    "size": "extraLarge"
+                },
+                {
+                    "url": "https://www.globalgiving.org/pfil/1015/pict_original.jpg",
+                    "size": "original"
+                }
+            ],
+            "id": 0
+        },
+        "themes": {
+            "theme": [
+                {
+                    "id": "gender",
+                    "name": "Gender Equality"
+                },
+                {
+                    "id": "housing",
+                    "name": "Safe Housing"
+                }
+            ]
+        },
+        "countries": {
+            "country": [
+                {
+                    "name": "Uganda",
+                    "iso3166CountryCode": "UG"
+                }
+            ]
+        },
+        "type": "project"
+    }
+]
