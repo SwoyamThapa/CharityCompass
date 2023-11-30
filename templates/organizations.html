@@ -28,15 +28,15 @@
 
 
                     <div id="main">
-							<section id="intro" class="main">
-								<div class="spotlight">
-									<div class="content">
-										<header class="major">
-											<h2>Organizations</h2>
-										</header>
-										<ul>
-											{% for organization in organizations %}
-											<li>
+						<section id="intro" class="main">
+							<div class="spotlight">
+								<div class="content">
+									<header class="major">
+										<h2>Organizations</h2>
+									</header>
+									<div class="organization-container">
+										{% for organization in organizations %}
+											<div class="info-box">
 												<h2>{{ organization.get('name') }}</h2>
 												<p>Address: {{ organization.get('address1') }}, {{ organization.get('address2') }}, {{ organization.get('city') }}, {{ organization.get('state') }}, {{ organization.get('postal') }}, {{ organization.get('country') }}</p>
 												<p>URL: <a href="{{ organization.get('url') }}" target="_blank">{{ organization.get('url') }}</a></p>
@@ -45,15 +45,16 @@
 												<p>Countries of Operation: {{ organization.get('countries') | join(', ') }}</p>
 												<p>Total Projects: {{ organization.get('totalProjects') }}</p>
 												<p>Active Projects: {{ organization.get('activeProjects') }}</p>
-											</li>
-											{% endfor %}
-										</ul>
+											</div>
+										{% endfor %}
 									</div>
 								</div>
-							</section>
-
-
-                    </div>
+							</div>
+						</section>
+					</div>
+					
+										
+					
             </div>
 
             <script src="{{ url_for('static',filename = 'js/jquery.min.js') }}"></script>
