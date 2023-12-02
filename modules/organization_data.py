@@ -31,8 +31,12 @@ def get_updated_data():
             'funding' : items.get('funding')
         }
 
+
         new_data.append(org_info)
+    
+    with open("modules/data/organizations.json",'r') as file:
+        data = json.load(file)
+
+    new_data.extend(data)
 
     return new_data
-
-    

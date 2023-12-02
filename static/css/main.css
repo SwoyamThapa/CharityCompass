@@ -3925,7 +3925,6 @@ input, select, textarea {
         }
 
 
-/* Add this to your existing CSS or create a new CSS file */
 
 .content {
     display: flex;
@@ -3941,7 +3940,7 @@ input, select, textarea {
 }
 
 .info-box {
-    width: 500px; /* Adjust the width as needed */
+    width: 500px; 
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 8px;
@@ -3951,18 +3950,49 @@ input, select, textarea {
 
 .info-box h2 {
     color: #333;
-    font-size: 1.5em; /* Adjust the font size as needed */
+    font-size: 1.5em; 
 }
 
 .info-box p {
     color: #666;
-    font-size: 1em; /* Adjust the font size as needed */
+    font-size: 1em; 
 }
 
 .info-box a {
     color: #007bff;
     text-decoration: none;
 }
+
+.add_orgs {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.organization-section {
+    margin-bottom: 20px;
+}
+
+.organization-section label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.organization-section input,
+.organization-section textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+
+
 
 
 

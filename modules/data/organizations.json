@@ -1,0 +1,34 @@
+[
+  {
+    "name": "SOS",
+    "address1": "address1",
+    "address2": "address2",
+    "city": "city",
+    "state": "state",
+    "postal": "00000",
+    "country": "country",
+    "url": "SOS.com",
+    "mission": "The mission of SOS for Orphans is to provide comprehensive and sustainable support to orphaned children worldwide. We are dedicated to ensuring that every orphaned child receives the love, care, education, and opportunities they need to thrive and become empowered individuals.",
+    "themes": [
+      "Child Welfare and Protection",
+      " Educational Empowerment",
+      " Family Reintegration and Support",
+      " Community Development and Empowerment",
+      " Advocacy for Orphan Rights",
+      " Global Collaboration and Partnership",
+      " Sustainable Practices and Environmental Responsibility",
+      " Health and Nutrition",
+      " Inclusive Community Building",
+      " Technology and Digital Literacy"
+    ],
+    "countries": [
+      "country1",
+      "country2",
+      "country3",
+      "country4"
+    ],
+    "totalProjects": "20",
+    "activeProjects": "10",
+    "goal": "The goals of SOS (Save Our Souls) for Orphans are to provide holistic care, quality education, and family reintegration, empower communities, advocate for orphan rights, foster global collaboration, ensure sustainability, and implement effective monitoring and evaluation to create a world where every orphaned child thrives in a loving and supportive environment."
+  }
+]

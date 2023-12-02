@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>CharityCompass</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ url_for('static',filename = 'css/main.css') }}" />
+		<noscript><link rel="stylesheet" href="{{ url_for('static',filename = 'css/noscript.css') }}"/></noscript>
+
+	</head>
+
+	<body class="is-preload">
+
+
+		<div id="wrapper">
+
+				<header id="header" class="alt">
+					<span class="logo"> <img src="images/logo.svg" alt="" /></span>
+					<h1>CharityCompass</h1>
+				</header>
+
+
+				<nav id="nav">
+					<ul>
+						<li><a href="/" class="active">Introduction</a></li>
+						<li><a href="/organizations">Our Organizations</a></li>
+						<li><a href="/compiled_data">General Overview</a></li>
+						<li><a href="/add_organizations">Add Organizations</a></li>
+					</ul>
+				</nav>
+
+
+				<div class="container1">
+					<h1>Organization Information</h1>
+					<form method="POST" action="{{ url_for('submit') }}">
+
+						<div class="organization-section">
+							<label for="orgName">Organization Name:</label>
+							<input type="text" id="orgName" name="orgName" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgAddress1">Address Line 1:</label>
+							<input type="text" id="orgAddress1" name="orgAddress1" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgAddress2">Address Line 2:</label>
+							<input type="text" id="orgAddress2" name="orgAddress2">
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgCity">City:</label>
+							<input type="text" id="orgCity" name="orgCity" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgState">State:</label>
+							<input type="text" id="orgState" name="orgState" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgPostal">Postal Code:</label>
+							<input type="text" id="orgPostal" name="orgPostal" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgCountry">Country:</label>
+							<input type="text" id="orgCountry" name="orgCountry" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgURL">Organization URL:</label>
+							<input type="text" id="orgURL" name="orgURL" required value="">
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgMission">Mission:</label>
+							<textarea id="orgMission" name="orgMission" required></textarea>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgThemes">Themes:(seperate by comma for more than one)</label>
+							<input type="text" id="orgThemes" name="orgThemes" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgCountries">Countries:(seperate by comma for more than one)</label>
+							<input type="text" id="orgCountries" name="orgCountries" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgTotalProjects">Total Projects:</label>
+							<input type="text" id="orgTotalProjects" name="orgTotalProjects" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgActiveProjects">Active Projects:</label>
+							<input type="text" id="orgActiveProjects" name="orgActiveProjects" required>
+						</div>
+			
+						<div class="organization-section">
+							<label for="orgGoal">Goal:</label>
+							<textarea id="orgGoal" name="orgGoal" required></textarea>
+						</div>
+			
+						<button type="submit">Submit</button>
+					</form>
+				</div>
+
+		<script src="{{ url_for('static',filename = 'js/jquery.min.js') }}"></script>
+		<script src="{{ url_for('static',filename = 'js/jquery.scrollex.min.js') }}"></script>
+		<script src="{{ url_for('static',filename = 'js/jquery.scrolly.min.js') }}"></script>
+		<script src="{{ url_for('static',filename = 'js/browser.min.js') }}"></script>
+		<script src="{{ url_for('static',filename = 'js/breakpoints.min.js') }}"></script>
+		<script src="{{ url_for('static',filename = 'js/util.js') }}"></script>
+		<script src="{{ url_for('static',filename = 'js/main.js') }}"></script>	
+
+</html>
